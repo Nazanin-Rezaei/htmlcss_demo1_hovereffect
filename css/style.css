@@ -1,0 +1,40 @@
+
+/************************************Tag Section***********************************/
+body{
+    text-align: center;
+}
+
+
+p{
+  color: #adff2f;
+  font-size: 40px;
+}
+p:active{
+text-shadow: 4px 4px 8px grey;
+}
+img{
+  border-radius: 20%;
+}
+
+/************************************class Section***********************************/
+
+.snow{
+  background-color: #7fff00;
+  margin-right: 100px;
+}
+
+.snow:hover{
+  background-color: #ff1493;
+}
+.rain{
+  background-color: grey;
+}
+.rain:hover{
+  background-color:  #ff7f50 ;
+}
+/************************************ id Section***********************************/
+
+#heading{
+  color: #ff1493;
+  font-size: 100px;
+}
